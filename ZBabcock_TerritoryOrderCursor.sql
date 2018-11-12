@@ -111,6 +111,6 @@ GO
 /*
 This second stored procedure is a lot more straightforward than the first procedure, with just a different format.
 Getting said result set outputted in a more report-friendly format is as simple as right-clicking the query results, 
-and saving the file to your desired format (a tab-separated txt file or a csv file were the two that I saw). I don't know
-of, nor could I find, a way to just 
+and saving the file to your desired format (a tab-separated txt file or a csv file were the two that I saw). I couldn't
+fully figure out how to just export a report programmatically, but you can see the last thing I attempted commented out above.
 */
